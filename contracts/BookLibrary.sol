@@ -1,6 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.0;
-pragma abicoder v2;
+pragma solidity 0.8.7;
 
 /**
 @dev Import the Ownable contract.
